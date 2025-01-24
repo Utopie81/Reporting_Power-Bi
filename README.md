@@ -61,4 +61,5 @@ Ce projet power bi analyse la consommation énergétique des habitations en Fran
 - `Documentation_Fonctionnelle.pdf` : documentation fonctionnelle pour les utilisateurs finaux.
 - `Documentation_Technique.pdf` : documentation technique pour les développeurs.
 - [Maquette de l'application (Figma)](https://www.figma.com/board/vrcrkACxhyLRoLUIdulVMi/Figma-SAE-PowerBI?node-id=5-317&t=kpuoxPvTZKfQBBZD-1)
+- [Notre Application Power Bi](https://www.figma.com/board/vrcrkACxhyLRoLUIdulVMi/Figma-SAE-PowerBI?node-id=5-317&t=kpuoxPvTZKfQBBZD-1)
 ---
